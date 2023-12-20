@@ -1,4 +1,4 @@
-![](/images/Models.png)
+![](/Squirrel.png)
 
 # [Predicting Squirrel Movements in Central Park](https://github.com/hassanhshah/Squirrel_Prediction)
 * Fit an XGBoost Model on data from the movements of squirrels in Central Park using a variety of methods, including GPS tracking and camera traps
